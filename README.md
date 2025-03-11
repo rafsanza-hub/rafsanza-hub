@@ -19,7 +19,7 @@
   </a>
   <br>
 <a href="https://wakatime.com/@d4c7cebf-7a9b-40aa-974e-f4a5f4c627c3">
-  <img src="[https://github-readme-stats.vercel.app/api/wakatime?username=d4c7cebf-7a9b-40aa-974e-f4a5f4c627c3&layout=compact&theme=tokyonight](https://github-profile-trophy.vercel.app/?username=rafsanza-hub&theme=tokyonight&margin-w=15&margin-h=15)" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=d4c7cebf-7a9b-40aa-974e-f4a5f4c627c3&layout=compact&theme=tokyonight" />
 </a>
 </details>
 
