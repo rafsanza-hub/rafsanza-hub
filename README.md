@@ -1,4 +1,4 @@
-[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/zainwen9)
+[![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif](https://i.postimg.cc/Pqzw2ffF/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://postimg.cc/Y400SHW1)
 <h1 align="center">Hi 👋, I'm Rafsan</h1>
 
 ## Stats Detail
