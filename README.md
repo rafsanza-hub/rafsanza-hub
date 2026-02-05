@@ -23,4 +23,4 @@
 </a>
 </details>
 
-![Hit Counter](https://komarev.com/ghpvc/?username=rafsanza-hub&color=756A5B&style=for-the-badge&label=views&base=16070) [![Wakatime Hours Badge](https://wakatime.com/badge/user/d4c7cebf-7a9b-40aa-974e-f4a5f4c627c3.svg?style=for-the-badge)](https://wakatime.com/@jktrn)
+![Hit Counter](https://komarev.com/ghpvc/?username=rafsanza-hub&color=756A5B&style=for-the-badge&label=views&base=0) [![Wakatime Hours Badge](https://wakatime.com/badge/user/d4c7cebf-7a9b-40aa-974e-f4a5f4c627c3.svg?style=for-the-badge)](https://wakatime.com/@jktrn)
